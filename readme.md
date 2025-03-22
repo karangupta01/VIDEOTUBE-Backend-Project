@@ -151,7 +151,7 @@ npm install multer
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/VideoTube-Backend.git
+git clone https://github.com/karangupta01/VideoTube-Backend.git
 ```
 
 ### 2. Navigate to the Project Directory
